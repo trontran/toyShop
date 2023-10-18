@@ -11,7 +11,7 @@ class connect{
 	 $this->password ="";
 	 $this->dbname ="myToyShop";	
 	}	
-	//onpasdad
+
 	
 	public function connectToMySQL():mysqli{
 		$conn = new mysqli($this->server,
