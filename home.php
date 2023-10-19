@@ -21,7 +21,6 @@ if ($re->num_rows > 0) {
                             </a>
                             <h6 class="card-subtitle mb-2 text-muted">$<?= $row['price'] ?></h6>
                             <a href="detail.php?id=<?= $row['product_id'] ?>" class="btn btn-success">More Details</a> <!-- Thêm nút More Details -->
-                        </div>
                     </div>
                 </div>
             <?php endwhile; ?>

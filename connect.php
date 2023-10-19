@@ -6,10 +6,10 @@ class connect{
 	public $password;
 
 	public function __construct(){
-	 $this->server = "localhost";
-	 $this->usernames ="root";
-	 $this->password ="";
-	 $this->dbname ="myToyShop";	
+	 $this->server = "ble5mmo2o5v9oouq.cbetxkdyhwsb.us-east-1.rds.amazonaws.com";
+	 $this->usernames ="tpd5aaak9miy6sb7";
+	 $this->password ="qtf3pewbjyer5cf5";
+	 $this->dbname ="aby1vz59w6mncasq";	
 	}	
 
 	
