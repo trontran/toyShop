@@ -141,7 +141,7 @@ section .main .social_icon i:hover{
             </div>
 
             <ul>    
-                <li><a href="homeAdmin.php">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="allproduct.php">Products</a></li>
 	
             </ul>
