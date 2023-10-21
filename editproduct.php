@@ -38,6 +38,7 @@ $sql = "SELECT * FROM Products WHERE product_id = $product_id";
 $result = $blink->query($sql);
 $row = $result->fetch_assoc();
 
+
 ?>
 
 <div class="container">
@@ -92,7 +93,7 @@ $row = $result->fetch_assoc();
         </div>
         <div class="row ms-auto">
             <div>
-                <label for="store_id">Store ID</label> <!--Thêm cột store_id-->
+                <label for="store_id">Store ID</label> 
                 <input id="store_id" type="text" name="store_id" class="form-control" value="<?= $row['store_id'] ?>" required>
             </div>
         </div>

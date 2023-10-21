@@ -110,8 +110,8 @@ left: 5%;
 
 section .main .main_content .main_image img{
     width: 400px;
-    margin-right: 20px; /* Tạo khoảng cách bên phải của hình ảnh */
-    margin-bottom: 20px; /* Tạo khoảng cách phía dưới hình ảnh */
+    margin-right: 20px; 
+    margin-bottom: 20px; 
 }
 
 section .main .social_icon{
