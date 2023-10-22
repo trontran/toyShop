@@ -1,5 +1,5 @@
 <?php
-require_once('headerCus.php');
+require_once('headerAdmin.php');
 include_once('connect.php');
 ?>
 
